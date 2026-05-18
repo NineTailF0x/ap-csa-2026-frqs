@@ -1,2 +1,7 @@
 # ap-csa-2026-frqs
-my solutions and explinations for 2026 Ap computer science a Free response Questions
+## My solutions & explinations for the Ap Computer Science Free Response Questions of 2026
+
+# TO DO:
+* [ ] Question One 
+* [ ] Question Two
+* [ ] Question Three
